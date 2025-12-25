@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/geoguessr-clone/', // Replace with your repo name
+  base: '/geo-guesser/',
   build: {
     outDir: 'dist',
     sourcemap: false,
