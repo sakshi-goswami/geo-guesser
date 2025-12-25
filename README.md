@@ -9,27 +9,31 @@
 
 A modern, interactive geography guessing game built with React and Leaflet. Test your geographical knowledge by guessing locations from around the world!
 
-[🎮 Play Now](https://your-username.github.io/geoguessr-clone) • [📝 Report Bug](https://github.com/your-username/geoguessr-clone/issues) • [✨ Request Feature](https://github.com/your-username/geoguessr-clone/issues)
+[ Play Now](https://your-username.github.io/geoguessr-clone) • [📝 Report Bug](
+  
+  goswamiskavi@gmail.com) • [✨ Request Feature]( goswamiskavi@gmail.com)
 
 </div>
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-> Add screenshots of your game here
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+##  Features
 
-## ✨ Features
+-  **Interactive Map Interface** - Powered by Leaflet for smooth map interactions
+-  **Accurate Scoring System** - Points calculated based on distance from the actual location
+-  **Leaderboard** - Track your best scores and compete with yourself
+-  **Famous Landmarks** - Guess locations of iconic places around the world
+-  **Responsive Design** - Play seamlessly on desktop, tablet, and mobile devices
+-  **Beautiful UI** - Modern interface with Tailwind CSS and Framer Motion animations
+-  **Fast Performance** - Built with Vite for lightning-fast development and production builds
 
-- 🗺️ **Interactive Map Interface** - Powered by Leaflet for smooth map interactions
-- 🎯 **Accurate Scoring System** - Points calculated based on distance from the actual location
-- 🏆 **Leaderboard** - Track your best scores and compete with yourself
-- 🌐 **Famous Landmarks** - Guess locations of iconic places around the world
-- 📱 **Responsive Design** - Play seamlessly on desktop, tablet, and mobile devices
-- 🎨 **Beautiful UI** - Modern interface with Tailwind CSS and Framer Motion animations
-- ⚡ **Fast Performance** - Built with Vite for lightning-fast development and production builds
-
-## 🎮 How to Play
+##  How to Play
 
 1. **Start the Game** - Click the play button to begin
 2. **View Location** - You'll see an image of a location
@@ -38,7 +42,7 @@ A modern, interactive geography guessing game built with React and Leaflet. Test
 5. **Score Points** - Earn points based on accuracy (max 5000 points per round)
 6. **Continue** - Play through multiple rounds and try to beat your high score!
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -129,7 +133,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Sakshi Goswami**
 
-- GitHub: [@your-username](https://github.com/siya186)
+- GitHub: [siya186]
 
 ## 🙏 Acknowledgments
 
