@@ -9,7 +9,7 @@
 
 A modern, interactive geography guessing game built with React and Leaflet. Test your geographical knowledge by guessing locations from around the world!
 
-[🎮 Play Now](https://siya186.github.io/geoguessr-clone) • [📝 Report Bug](mailto:goswamiskavi@gmail.com) • [✨ Request Feature](mailto:goswamiskavi@gmail.com)
+[🎮 Play Now](https://siya186.github.io/geo-guesser/) • [📝 Report Bug](mailto:goswamiskavi@gmail.com) • [✨ Request Feature](mailto:goswamiskavi@gmail.com)
 
 </div>
 

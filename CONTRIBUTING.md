@@ -1,6 +1,6 @@
 # Contributing to GeoGuessr Clone
 
-First off, thank you for considering contributing to GeoGuessr Clone! 🎉
+First off, thank you for considering contributing to GeoGuessr Clone! 
 
 ## How Can I Contribute?
 
