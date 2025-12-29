@@ -51,12 +51,10 @@ Before pushing, make sure to update these files:
 Copy the commands from your new GitHub repository page or use these:
 
 ```bash
-git remote add origin https://github.com/your-username/geoguessr-clone.git
+git remote add origin https://github.com/sakshi-goswami/geo-guesser.git
 git branch -M main
 git push -u origin main
 ```
-
-Replace `your-username` with your actual GitHub username.
 
 ### Step 5: Enable GitHub Pages
 
@@ -74,7 +72,7 @@ Replace `your-username` with your actual GitHub username.
 3. Wait for it to complete (usually takes 1-3 minutes)
 4. Once done, your site will be live at:
    ```
-   https://your-username.github.io/geoguessr-clone/
+   https://sakshi-goswami.github.io/geo-guesser/
    ```
 
 ## 🔄 Updating Your Site
